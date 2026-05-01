@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name="Starfox 64: Recompiled"
+Name=Starfox 64 Recompiled
 Comment=A native port of Starfox 64, statically recompiled
 Exec=Starfox64Recompiled
 Terminal=false
